@@ -36,7 +36,9 @@ Need to calculate `2+2` or check the system date (`SYSDATE`)? Since SQL requires
 - **Joins:** Deep dives into `INNER`, `LEFT`, `FULL OUTER`, and `SELF-JOINS`.
 
 ---
+<img width="1024" height="1536" alt="ChatGPT Image Dec 29, 2025 at 08_29_41 PM" src="https://github.com/user-attachments/assets/c591efcc-26df-4add-aaf9-77b105c8fef2" />
 
 ## 🤝 Let's Connect!
 I am documenting my journey toward becoming a **Database Architect**. If you find this resource helpful, feel free to ⭐ this repository!
+
 
