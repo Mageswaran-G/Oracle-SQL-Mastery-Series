@@ -8,7 +8,7 @@ Welcome to my technical repository! This guide contains a curated deep-dive into
 ## 📂 Curriculum Overview
 | Topic | Key Learning Areas |
 | :--- | :--- |
-| **SQL Foundations** | DDL, DML, DQL, and RDBMS Architecture |
+| **SQL Foundations** | DDL, DML, DCL, TCL, DQL, and RDBMS Architecture |
 | **Data Filtering** | Relational & Special Operators (LIKE, BETWEEN, IS NULL) |
 | **Functions** | Single-Row (UPPER, ROUND) vs. Aggregate (SUM, AVG) |
 | **Environment** | SQL*Plus Tooling (SET LINESIZE, SPOOL, TIMING) |
@@ -40,5 +40,6 @@ Need to calculate `2+2` or check the system date (`SYSDATE`)? Since SQL requires
 
 ## 🤝 Let's Connect!
 I am documenting my journey toward becoming a **Database Architect**. If you find this resource helpful, feel free to ⭐ this repository!
+
 
 
