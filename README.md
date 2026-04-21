@@ -1,4 +1,4 @@
-# 🚀 Oracle SQL & Database Architecture: The Complete Master Guide
+#  Oracle SQL & Database Architecture: The Complete Master Guide
 ### 6 Weeks of Knowledge | From "What is SQL?" to Database Architect
 
 Welcome to my technical repository! This guide contains a curated deep-dive into the core pillars of Oracle Database management, covering everything from basic queries to high-performance data loading and security.
@@ -17,20 +17,20 @@ Welcome to my technical repository! This guide contains a curated deep-dive into
 
 ---
 
-## 🔥 Featured Q&A Highlights
+##  Featured Q&A Highlights
 
-### ⚡ SQL*Loader: Why not just use Python?
+###  SQL*Loader: Why not just use Python?
 Standard `INSERT` statements are slow for large datasets. **SQL*Loader** uses "Direct Path Load" to bypass database overhead, writing data directly to data blocks. It's the difference between moving a house one brick at a time vs. moving the whole structure at once.
 
-### 🛡️ The "Golden Rule" of GROUP BY
+###  The "Golden Rule" of GROUP BY
 Any column in your `SELECT` list that is not part of an aggregate function **must** be listed in the `GROUP BY` clause. Missing this is the #1 cause of ORA errors for beginners!
 
-### 🧪 DUAL Table: The Oracle Scratchpad
+###  DUAL Table: The Oracle Scratchpad
 Need to calculate `2+2` or check the system date (`SYSDATE`)? Since SQL requires a `FROM` clause, we use the **DUAL** table—a special dummy table with one row and one column.
 
 ---
 
-## 🛠️ Essential Commands & Tools
+##  Essential Commands & Tools
 - **TCL (Transaction Control):** Mastering `COMMIT`, `ROLLBACK`, and `SAVEPOINT` for data integrity.
 - **DCL (Data Control):** Managing security via `GRANT` and `REVOKE`.
 - **Joins:** Deep dives into `INNER`, `LEFT`, `FULL OUTER`, and `SELF-JOINS`.
@@ -38,8 +38,8 @@ Need to calculate `2+2` or check the system date (`SYSDATE`)? Since SQL requires
 ---
 <img width="1024" height="1536" alt="ChatGPT Image Dec 29, 2025 at 08_29_41 PM" src="https://github.com/user-attachments/assets/c591efcc-26df-4add-aaf9-77b105c8fef2" />
 
-## 🤝 Let's Connect!
-I am documenting my journey toward becoming a **Database Architect**. If you find this resource helpful, feel free to ⭐ this repository!
+##  Let's Connect!
+I am documenting my journey toward becoming a **Database Architect**. If you find this resource helpful, feel free to this repository!
 
 
 
